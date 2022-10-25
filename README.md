@@ -6,4 +6,6 @@ The logo will intelligently change between Visa, Mastercard, AMEX and Discover a
 
 # Screenshot
 
-![Screenshot of credit card form](images/screenshot-cc.png)
+![Screenshot of basic credit card form](images/screenshot-cc.png)
+
+![Screenshot of Visa credit card form](images/visa-screen.png)
