@@ -4,4 +4,4 @@ This one should be self explanitory. It's a basic credit card input form that ha
 
 # Screenshot
 
-![screenshot of credit card form](https://github.com/[jburky15]/[cc-form]/blob/[master]/images/screenshot-cc.png?raw=true)
+![Screenshot of credit card form](images/screenshot-cc.png)
