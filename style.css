@@ -6,8 +6,9 @@
 
 .credit-card .front,
 .credit-card .back {
-    background-color: rgb(15, 97, 138);
-    border: 1px solid rgb(5, 32, 46);
+    background-color: rgb(182, 18, 18);
+    border: 1px solid rgb(0, 0, 0);
+    box-shadow: 2px 3px 4px rgb(41, 41, 41);
     border-radius: .5rem;
     width: 325px;
     height: 150px;
@@ -115,7 +116,7 @@
     height: 600px;
     width: 600px;
     border-radius: 100%;
-    background-color: rgba(255, 255, 255, 0.075);
+    background-color: rgba(255, 255, 255, 0.05);
     bottom: -480px;
     left: -180px;
     z-index: -1;
@@ -128,7 +129,7 @@
 }
 
 .credit-card .stripe {
-    background-color: rgba(5, 32, 46, 0.8);
+    background-color: rgba(0, 0, 0, 0.7);
     height: 35px;
     position: absolute;
     left: 0;
@@ -140,6 +141,10 @@
     position: absolute;
     bottom: 3.5rem;
     right: .35rem;
+}
+
+.credit-card .cvc-group label {
+    margin-left: 10px;
 }
 
 .credit-card .cvc-input {
